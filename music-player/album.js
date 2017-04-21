@@ -1,1 +1,3 @@
-// Your code here
+export default class Album {
+  
+}
